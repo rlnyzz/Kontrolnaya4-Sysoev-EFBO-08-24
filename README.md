@@ -13,4 +13,9 @@
 
 Вывод:приложение получилось простым, удобным и безопасным. Подходит для быстрого создания паролей без установки программ. 
 
+https://github.com/rlnyzz/Kontrolnaya4-Sysoev-EFBO-08-24/blob/main/screen1.jpeg
+https://github.com/rlnyzz/Kontrolnaya4-Sysoev-EFBO-08-24/blob/main/screen2.jpeg
+https://github.com/rlnyzz/Kontrolnaya4-Sysoev-EFBO-08-24/blob/main/screen3.jpeg
+https://github.com/rlnyzz/Kontrolnaya4-Sysoev-EFBO-08-24/blob/main/screen4.jpeg
+https://github.com/rlnyzz/Kontrolnaya4-Sysoev-EFBO-08-24/blob/main/screen5.jpeg
 
